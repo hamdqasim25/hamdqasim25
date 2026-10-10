@@ -1,5 +1,5 @@
 
-# Hi, I'm Hamdi 👋
+# Hi, I'm Hamdi
 
 ### Aspiring IT Support & Cloud Engineer | Tech Enthusiast
 
@@ -41,3 +41,4 @@ A full-stack expense-sharing application built using Next.js, TypeScript, Prisma
 
 ## 📫 Connect With Me
 - GitHub: [hamdqasim25](https://github.com/hamdqasim25)
+- LinkedIn [Click here](https://www.linkedin.com/in/hamdi-q-1480a22b9/)
