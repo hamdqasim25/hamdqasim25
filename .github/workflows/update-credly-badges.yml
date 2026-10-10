@@ -1,0 +1,27 @@
+
+name: Update Credly Badges
+
+on:
+  schedule:
+    # Runs daily at 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Sync Credly badges
+        uses: kpab/credly-readme@v1
+        with:
+          credly_user: hamdi-qasim
+          sort: LATEST
+          badge_width: 120
+          max_badges: 0
