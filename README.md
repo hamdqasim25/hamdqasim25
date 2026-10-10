@@ -28,7 +28,7 @@ Currently building my technical skills through certifications, hands-on labs and
 ## 🏆 Certifications & Badges
 
 <!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/d96f6c39-50c7-47fb-95fb-2f4ddac073f2" title="Google IT Support Professional Certificate(v.3)"><img src="https://images.credly.com/images/f3f0fb7b-4d69-47b0-acd6-c9264725a518/blob" width="120" alt="Google IT Support Professional Certificate(v.3)" /></a> <a href="https://www.credly.com/badges/408ec6fd-6257-4fb0-89bb-d6a3a34e8a7e" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS Certified AI Practitioner" /></a> <a href="https://www.credly.com/badges/23f943a0-5c22-4960-86e6-d52f0c5af10d" title="AI Skills Fest 2026"><img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="120" alt="AI Skills Fest 2026" /></a><!--END_SECTION:badges-->
 
 ## 📂 Featured Projects
 
