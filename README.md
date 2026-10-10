@@ -25,6 +25,11 @@ Currently building my technical skills through certifications, hands-on labs and
 
 **Tools:** Git, GitHub, VS Code, PowerShell, Bash
 
+## 🏆 Certifications & Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 📂 Featured Projects
 
 ### [AstroBase](https://github.com/hamdqasim25/Astro-Base)
