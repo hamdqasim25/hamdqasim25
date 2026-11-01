@@ -15,9 +15,9 @@ Currently building my technical skills through certifications, hands-on labs and
 - 🎯 Career interests: IT Support, Cloud, DevOps and Security
 
 ## 🛠️ Technologies & Tools
-**Languages:** Python, TypeScript, SQL
+**Languages:** Python, JavaScript, TypeScript, SQL
 
-**Web Development:** Next.js, Tailwind CSS, Node.js
+**Web Development:** Next.js, React, Tailwind CSS, Node.js
 
 **Databases:** PostgreSQL, Prisma
 
