@@ -15,9 +15,10 @@ Currently building my technical skills through certifications, hands-on labs and
 - 🎯 Career interests: IT Support, Cloud, DevOps and Security
 
 ## 🛠️ Technologies & Tools
+
 **Languages:** Python, JavaScript, TypeScript, SQL
 
-**Web Development:** Next.js, React, Tailwind CSS, Node.js
+**Web Development:** HTML, CSS, Next.js, React, Tailwind CSS, Node.js
 
 **Databases:** PostgreSQL, Prisma
 
@@ -28,22 +29,43 @@ Currently building my technical skills through certifications, hands-on labs and
 ## 🏆 Certifications & Badges
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/d96f6c39-50c7-47fb-95fb-2f4ddac073f2" title="Google IT Support Professional Certificate(v.3)"><img src="https://images.credly.com/images/f3f0fb7b-4d69-47b0-acd6-c9264725a518/blob" width="120" alt="Google IT Support Professional Certificate(v.3)" /></a> <a href="https://www.credly.com/badges/408ec6fd-6257-4fb0-89bb-d6a3a34e8a7e" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS Certified AI Practitioner" /></a> <a href="https://www.credly.com/badges/23f943a0-5c22-4960-86e6-d52f0c5af10d" title="AI Skills Fest 2026"><img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="120" alt="AI Skills Fest 2026" /></a><!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/d96f6c39-50c7-47fb-95fb-2f4ddac073f2" title="Google IT Support Professional Certificate(v.3)"><img src="https://images.credly.com/images/f3f0fb7b-4d69-47b0-acd6-c9264725a518/blob" width="120" alt="Google IT Support Professional Certificate(v.3)" /></a> <a href="https://www.credly.com/badges/408ec6fd-6257-4fb0-89bb-d6a3a34e8a7e" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS Certified AI Practitioner" /></a> <a href="https://www.credly.com/badges/23f943a0-5c22-4960-86e6-d52f0c5af10d" title="AI Skills Fest 2026"><img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="120" alt="AI Skills Fest 2026" /></a>
+<!--END_SECTION:badges-->
 
 ## 📂 Featured Projects
 
-### [AstroBase](https://github.com/hamdqasim25/Astro-Base)
+### 💷 [PayCalc](https://github.com/hamdqasim25/take-home-pay-calculator)
+A UK take-home pay calculator built using vanilla HTML, CSS and JavaScript, designed to calculate salary deductions and net earnings.
+
+**Key Features:**
+- UK income tax and National Insurance calculations
+- Configurable tax-year rules
+- Optional pension contribution calculations
+- Annual, monthly, four-weekly, weekly and daily salary breakdowns
+- Interactive salary dashboard with deduction visualisations
+- Automated unit and integration testing using GitHub Actions
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, GitHub Actions
+
+### 🖥️ [AstroBase](https://github.com/hamdqasim25/Astro-Base)
 An interactive IT knowledge base for learning command-line tools across Windows, PowerShell and Linux.
 
-### [SplitMate](https://github.com/hamdqasim25/Split-Mate)
-A full-stack expense-sharing application built using Next.js, TypeScript, Prisma and PostgreSQL.
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
+
+### 💰 [SplitMate](https://github.com/hamdqasim25/Split-Mate)
+A full-stack expense-sharing application for managing group expenses, tracking balances and recording repayments.
+
+**Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL
 
 ## 📈 What I'm Working On
 - Preparing for CompTIA A+ certification
 - Expanding AstroBase's command library
-- Developing SplitMate's expense management features
-- Building practical IT and cloud skills
+- Improving SplitMate's expense management features
+- Developing PayCalc with additional calculator functionality and UI improvements
+- Exploring automated testing, CI/CD pipelines and cloud deployment
+- Building practical IT, networking and cloud infrastructure skills
 
 ## 📫 Connect With Me
 - GitHub: [hamdqasim25](https://github.com/hamdqasim25)
-- LinkedIn [Click here](https://www.linkedin.com/in/hamdi-q-1480a22b9/)
+- LinkedIn: [Click here](https://www.linkedin.com/in/hamdi-qaim25)
+
