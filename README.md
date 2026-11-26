@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hamdi-qaim25" title="Connect on LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"></a>
   &nbsp;&nbsp;
-  <a href="mailto:hamdi.qasim25@outlook.com" title="Email Hamdi"><img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/8dbed75ed3c44904362f8a4c2abb44624a2e46b1/logos/outlook/outlook-512.png" height="30" alt="Outlook"> </a>
+  <a href="mailto:hamdi.qasim25@outlook.com" title="Email Hamdi"><img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/8dbed75ed3c44904362f8a4c2abb44624a2e46b1/logos/outlook/outlook-512.png" height="30" alt="Outlook"></a>
   &nbsp;&nbsp;
-  <a href="https://docs.google.com/document/d/1UpkMzT4ZnD_oGAefLWs_Nmmdkk6YpID4G0U-8HUAEus/preview">📄 View CV</a>
+  <a href="https://docs.google.com/document/d/1UpkMzT4ZnD_oGAefLWs_Nmmdkk6YpID4G0U-8HUAEus/preview" title="View CV"><img src="./assets/cv-icon.svg" width="30" height="30" alt="View CV"></a>
 </p>
 
 I’ve worked as a Service Desk Advisor, Customer Service Advisor and Remote Customer Service Specialist. In first-line support, I helped people regain account access, prioritised incidents and documented the checks I’d run before escalating a ticket. In customer service, I investigated billing and online service issues and followed up with customers to explain the outcome.
