@@ -1,4 +1,6 @@
-# Hi, I'm Hamdi
+<h1 align="center">Hi, I'm Hamdi 👋</h1>
+<h2 align="center">First-line IT support · Service desk experience</h2>
+<p align="center">Greater Manchester, UK</p>
 
 I’ve worked as a Service Desk Advisor, Customer Service Advisor and Remote Customer Service Specialist. In first-line support, I helped people regain account access, prioritised incidents and documented the checks I’d run before escalating a ticket. In customer service, I investigated billing and online service issues and followed up with customers to explain the outcome.
 
@@ -32,9 +34,7 @@ I’m based in Greater Manchester and looking for an IT support or junior system
 - As I work through my Linux Bash CLI and Windows modules, I’ll add commands I’ve practised, with an example I’ve run and an explanation of what the output tells me.
 - When I use a command to diagnose a fault in Systems Support Labs, I’ll link the entry to the ticket so readers can follow the investigation.
 
-## Skills and certifications
-
-I hold the Google IT Support Professional Certificate and AWS Certified AI Practitioner certification, and I’m studying for CompTIA A+.
+## Technical skills
 
 **Languages:** Python, JavaScript, TypeScript, SQL
 
@@ -46,12 +46,16 @@ I hold the Google IT Support Professional Certificate and AWS Certified AI Pract
 
 **Tools:** Git, GitHub, VS Code, PowerShell, Bash
 
-## 🏆 Certifications & Badges
+<h2 align="center">🏆 Certifications &amp; badges</h2>
+
+<div align="center">
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/d96f6c39-50c7-47fb-95fb-2f4ddac073f2" title="Google IT Support Professional Certificate(v.3)"><img src="https://images.credly.com/images/f3f0fb7b-4d69-47b0-acd6-c9264725a518/blob" width="120" alt="Google IT Support Professional Certificate(v.3)" /></a> <a href="https://www.credly.com/badges/408ec6fd-6257-4fb0-89bb-d6a3a34e8a7e" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS Certified AI Practitioner" /></a> <a href="https://www.credly.com/badges/23f943a0-5c22-4960-86e6-d52f0c5af10d" title="AI Skills Fest 2026"><img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="120" alt="AI Skills Fest 2026" /></a>
 <!--END_SECTION:badges-->
 
+<p>Currently studying for <strong>CompTIA A+</strong></p>
+</div>
 
 ## 📫 Connect With Me
 - GitHub: [hamdqasim25](https://github.com/hamdqasim25)
