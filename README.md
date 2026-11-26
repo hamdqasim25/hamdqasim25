@@ -1,34 +1,36 @@
 # Hi, I'm Hamdi
 
-I’m based in Greater Manchester. In first-line support at Companies House through Serco, I helped people regain account access and used ServiceNow to document and escalate incidents. I’m now looking for an IT support or junior systems administration role where I can troubleshoot Windows and Linux systems and automate routine tasks.
+I’ve worked as a Service Desk Advisor, Customer Service Advisor and Remote Customer Service Specialist. In first-line support, I helped people regain account access, prioritised incidents and documented the checks I’d run before escalating a ticket. In customer service, I investigated billing and online service issues and followed up with customers to explain the outcome.
 
-My longer-term goal is to work in cloud DevOps. I want to take an application from a tested change in GitHub to a repeatable cloud deployment, then learn how to monitor it and recover when a release goes wrong.
+## Career goals
+
+I’m based in Greater Manchester and looking for an IT support or junior systems administration role where I can troubleshoot Windows and Linux systems and automate routine tasks. Longer term, I want to work in cloud DevOps, building deployment pipelines, monitoring applications and learning how to recover from a failed release.
 
 ## Featured projects
 
-### [Systems Support Labs](https://github.com/hamdqasim25/systems-support-labs)
+### 🛠️ [Systems Support Labs](https://github.com/hamdqasim25/systems-support-labs)
 
-I’ve set up a personal lab portfolio with a ticket template and a lab index. My first planned exercise is a Windows DNS fault. I’ll record what the user sees, which checks narrow down the cause, and how I verify that name resolution works again. Each write-up will include command output or screenshots so someone else can follow my diagnosis.
+- Set up a lab index and a reusable ticket template to document symptoms, diagnostic checks, fixes and verification.
+- My first planned lab is a Windows DNS fault. I’ll capture command output before and after the fix to show that name resolution works again. [View the lab plan](https://github.com/hamdqasim25/systems-support-labs/blob/main/labs/001-windows-dns/README.md)
+- After DNS, I’ll investigate Windows account access and Linux file permissions, then write a read-only disk-space report in PowerShell.
 
-After DNS, I’ll work through Windows account access, Linux file permissions and a read-only PowerShell disk-space report. [View the first lab plan](https://github.com/hamdqasim25/systems-support-labs/blob/main/labs/001-windows-dns/README.md)
+### 💷 [PayCalc](https://github.com/hamdqasim25/take-home-pay-calculator)
 
-### [PayCalc](https://github.com/hamdqasim25/take-home-pay-calculator)
+- Built a take-home pay calculator in vanilla JavaScript using England’s 2026/27 tax rules, with automated checks in GitHub Actions.
+- Added student and postgraduate loan repayments to the salary dashboard. Users can expand each loan to see deductions across pay periods alongside their pension contributions.
+- I’ll improve the calculator and its interface, then package it with Docker and build a pipeline that tests changes before deploying them to the cloud.
 
-I built a take-home pay calculator in vanilla JavaScript using England’s 2026/27 tax rules. I recently added student and postgraduate loan repayments alongside pension deductions. The dashboard shows where a salary goes and lets users expand each loan to see its effect across pay periods. GitHub Actions runs the calculator’s automated checks.
+### 🧾 [SPLITMate](https://github.com/hamdqasim25/Split-Mate)
 
-I’ll keep improving the calculator and its interface first. Then I’ll use PayCalc to practise Docker and cloud deployment, with a pipeline that tests a change before publishing it.
+- Built a shared-expense app with Next.js, TypeScript, Prisma and PostgreSQL. Guests can report repayments and group owners can confirm them.
+- Added account settings and a GitHub Actions pipeline that checks the production build and tests repayment behaviour against PostgreSQL.
+- My next focus is rate limiting for sign-in and registration. Later, I’ll practise database migrations and verify that I can restore expense and repayment records from a backup. [View the roadmap](https://github.com/hamdqasim25/Split-Mate/blob/main/docs/dev-roadmap.md)
 
-### [SPLITMate](https://github.com/hamdqasim25/Split-Mate)
+### 🌙 [AstroBase](https://github.com/hamdqasim25/Astro-Base)
 
-I built a shared-expense app with Next.js, TypeScript, Prisma and PostgreSQL. Guests can report repayments and owners can confirm them. Recent work includes account settings and a GitHub Actions pipeline that checks the production build and tests repayment behaviour against PostgreSQL.
-
-I’ll use SPLITMate to practise running an application that holds persistent data. My next focus is authentication rate limiting. Longer term, I want to rehearse database migrations and verify that I can restore expense and repayment records from a backup. [View the project roadmap](https://github.com/hamdqasim25/Split-Mate/blob/main/docs/dev-roadmap.md)
-
-### [AstroBase](https://github.com/hamdqasim25/Astro-Base)
-
-I built a searchable command reference with six entries across Windows Command Prompt, PowerShell and Linux Bash, including `ipconfig`, `Get-Process` and `chmod`.
-
-I’ll grow AstroBase as I work through my Linux Bash CLI and Windows modules. For each command I practise, I’ll document when I’d use it, an example I’ve run and how to interpret the output. When a command helps solve a Systems Support Labs ticket, I’ll link the two so readers can see it in context.
+- Built a searchable reference with six commands across Windows Command Prompt, PowerShell and Linux Bash, including `ipconfig`, `Get-Process` and `chmod`.
+- As I work through my Linux Bash CLI and Windows modules, I’ll add commands I’ve practised, with an example I’ve run and an explanation of what the output tells me.
+- When I use a command to diagnose a fault in Systems Support Labs, I’ll link the entry to the ticket so readers can follow the investigation.
 
 ## Skills and certifications
 
