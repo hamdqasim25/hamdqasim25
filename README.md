@@ -12,7 +12,9 @@ I’ve worked as a Service Desk Advisor, Customer Service Advisor and Remote Cus
 
 ## Career goals
 
-I’m based in Greater Manchester and looking for an IT support or junior systems administration role where I can troubleshoot Windows and Linux systems and automate routine tasks. Longer term, I want to work in cloud DevOps, building deployment pipelines, monitoring applications and learning how to recover from a failed release.
+**My next role.** I’m building on my service desk experience to move into IT support or junior systems administration. I’m studying for CompTIA A+ and working through Windows and Linux command-line modules. In Systems Support Labs, my first planned exercise is a Windows DNS fault. I’ll document which checks help me find the cause, how I verify the fix and which commands are worth adding to AstroBase.
+
+**Longer term.** I want to work in cloud DevOps. I’ve started with GitHub Actions, which already runs automated checks for PayCalc and SPLITMate. Once I’ve improved PayCalc’s interface, I plan to package it with Docker and use that pipeline to deploy it to the cloud. From there, I’ll practise monitoring a release and rolling it back if something goes wrong.
 
 ## Featured projects
 
