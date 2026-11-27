@@ -20,25 +20,25 @@ I’ve worked as a Service Desk Advisor, Customer Service Advisor and Remote Cus
 
 ## Featured projects
 
-### 🛠️ [Systems Support Labs](https://github.com/hamdqasim25/systems-support-labs)
+### 🛠️ [Systems Support Labs](https://github.com/hamdqasim25/systems-support-labs) | IT Infrastructure & Administration
 
 - Set up a lab index and a reusable ticket template to document symptoms, diagnostic checks, fixes and verification.
 - My first planned lab is a Windows DNS fault. I’ll capture command output before and after the fix to show that name resolution works again. [View the lab plan](https://github.com/hamdqasim25/systems-support-labs/blob/main/labs/001-windows-dns/README.md)
 - After DNS, I’ll investigate Windows account access and Linux file permissions, then write a read-only disk-space report in PowerShell.
 
-### 💷 [PayCalc](https://github.com/hamdqasim25/take-home-pay-calculator)
+### 💷 [PayCalc](https://github.com/hamdqasim25/take-home-pay-calculator) | Application Support, Testing & Automation
 
 - Built a take-home pay calculator in vanilla JavaScript using England’s 2026/27 tax rules, with automated checks in GitHub Actions.
 - Added student and postgraduate loan repayments to the salary dashboard. Users can expand each loan to see deductions across pay periods alongside their pension contributions.
 - I’ll improve the calculator and its interface, then package it with Docker and build a pipeline that tests changes before deploying them to the cloud.
 
-### 🧾 [SPLITMate](https://github.com/hamdqasim25/Split-Mate)
+### 🧾 [SPLITMate](https://github.com/hamdqasim25/Split-Mate) | Application Support, Database & IT Operations
 
 - Built a shared-expense app with Next.js, TypeScript, Prisma and PostgreSQL. Guests can report repayments and group owners can confirm them.
 - Added account settings and a GitHub Actions pipeline that checks the production build and tests repayment behaviour against PostgreSQL.
 - My next focus is rate limiting for sign-in and registration. Later, I’ll practise database migrations and verify that I can restore expense and repayment records from a backup. [View the roadmap](https://github.com/hamdqasim25/Split-Mate/blob/main/docs/dev-roadmap.md)
 
-### 🌙 [AstroBase](https://github.com/hamdqasim25/Astro-Base)
+### 🌙 [AstroBase](https://github.com/hamdqasim25/Astro-Base) | IT Knowledge Base & Systems Troubleshooting
 
 - Built a searchable reference with six commands across Windows Command Prompt, PowerShell and Linux Bash, including `ipconfig`, `Get-Process` and `chmod`.
 - As I work through my Linux Bash CLI and Windows modules, I’ll add commands I’ve practised, with an example I’ve run and an explanation of what the output tells me.
